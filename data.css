@@ -1,8 +1,12 @@
 h2{
 font-family: 'Times New Roman', Times, serif;
-color:red;
+color:coral;
+font-weight: 400;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
     color: aqua;
+    font-weight: 400;
+    font-size: medium;
+    
 }
